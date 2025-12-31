@@ -1,15 +1,15 @@
 {
-  "version": "20251230_190658",
-  "updated_at": "2025-12-30T19:06:58.381807",
+  "version": "20251231_084258",
+  "updated_at": "2025-12-31T08:42:58.191007",
   "model_url": "https://SandaruEARL.github.io/cinnamon-ml-pipeline/cinnamon_grades_model.tflite",
   "version_url": "https://SandaruEARL.github.io/cinnamon-ml-pipeline/version.json",
-  "model_hash": "d871bafe56ecde127458720bf058663abd526cd5fb5f24aa4e6c004b09ce4ade",
+  "model_hash": "5eeea438a5bff72a78183b6ad67c8931267c778eae63127493059a4bdf7855e8",
   "model_size_bytes": 570204,
   "model_size_kb": 556.84,
-  "records_count": 23909,
+  "records_count": 23961,
   "date_range": {
     "start": "2016-01-05",
-    "end": "2025-12-23"
+    "end": "2025-12-30"
   },
   "districts": [
     "Average Price",
@@ -38,9 +38,9 @@
     "M-5"
   ],
   "training": {
-    "test_loss": 0.0016397349536418915,
-    "test_mae": 0.026799630373716354,
-    "trained_on": "2025-12-30T19:06:48.129958",
+    "test_loss": 0.001879792776890099,
+    "test_mae": 0.028988296166062355,
+    "trained_on": "2025-12-31T08:42:47.886653",
     "lookback_days": 30,
     "forecast_days": 7
   },
