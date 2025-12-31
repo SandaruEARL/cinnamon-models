@@ -1,9 +1,9 @@
 {
-  "version": "20251231_084258",
-  "updated_at": "2025-12-31T08:42:58.191007",
+  "version": "20251231_160248",
+  "updated_at": "2025-12-31T16:02:48.789295",
   "model_url": "https://SandaruEARL.github.io/cinnamon-ml-pipeline/cinnamon_grades_model.tflite",
   "version_url": "https://SandaruEARL.github.io/cinnamon-ml-pipeline/version.json",
-  "model_hash": "5eeea438a5bff72a78183b6ad67c8931267c778eae63127493059a4bdf7855e8",
+  "model_hash": "16cc851c986ebf13713df7885e7c04138ba8b12ddbda1d27b6bb6bfa5c178364",
   "model_size_bytes": 570204,
   "model_size_kb": 556.84,
   "records_count": 23961,
@@ -38,9 +38,9 @@
     "M-5"
   ],
   "training": {
-    "test_loss": 0.001879792776890099,
-    "test_mae": 0.028988296166062355,
-    "trained_on": "2025-12-31T08:42:47.886653",
+    "test_loss": 0.0020463112741708755,
+    "test_mae": 0.031141167506575584,
+    "trained_on": "2025-12-31T16:02:38.266659",
     "lookback_days": 30,
     "forecast_days": 7
   },
