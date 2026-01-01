@@ -146,15 +146,15 @@
       "C-5",
       "C-4"
     ],
-    "lookback_days": 30,
+    "lookback_days": 60,
     "forecast_days": 7,
     "batch_size": 32,
-    "epochs": 50,
+    "epochs": 100,
     "learning_rate": 0.001,
     "validation_split": 0.15,
     "test_split": 0.15
   },
   "num_features": 30,
-  "lookback_days": 30,
+  "lookback_days": 60,
   "forecast_days": 7
 }
