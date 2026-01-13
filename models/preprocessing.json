@@ -228,11 +228,11 @@
   "output_denormalization": {
     "average_price": {
       "min": 567.0,
-      "max": 6500.0
+      "max": 6000.0
     },
     "highest_price": {
       "min": 300.0,
-      "max": 6500.0
+      "max": 6000.0
     }
   },
   "has_national_features": true,
