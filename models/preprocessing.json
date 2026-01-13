@@ -225,6 +225,16 @@
   "num_features": 45,
   "lookback_days": 30,
   "forecast_days": 7,
+  "output_denormalization": {
+    "average_price": {
+      "min": 567.0,
+      "max": 6500.0
+    },
+    "highest_price": {
+      "min": 300.0,
+      "max": 6500.0
+    }
+  },
   "has_national_features": true,
   "national_features": [
     "national_average_price_rs_kg",
