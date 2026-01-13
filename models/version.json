@@ -1,8 +1,8 @@
 {
-  "version": "20260112_165213",
-  "updated_at": "2026-01-12T16:52:16Z",
-  "model_hash": "b431c3019495f24d31403cf295cdd958500479c9109c2f74bf7e629adeda772f",
-  "model_size_bytes": 615256,
-  "model_size_kb": 600.83,
+  "version": "20260113_060238",
+  "updated_at": "2026-01-13T06:02:40Z",
+  "model_hash": "39da459b65dcead69b91b32c1748788bd458921ff0a8ad7c71215a4ec017de8b",
+  "model_size_bytes": 192988,
+  "model_size_kb": 188.46,
   "records_count": 24013
 }
