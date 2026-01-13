@@ -221,7 +221,9 @@
     "learning_rate": 0.001,
     "validation_split": 0.15,
     "test_split": 0.15,
-    "outlier_threshold": 6000
+    "outlier_threshold": 6000,
+    "percentile_min": 1,
+    "percentile_max": 99
   },
   "num_features": 45,
   "lookback_days": 30,
